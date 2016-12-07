@@ -7,7 +7,7 @@
 - Run the index.html file in your browser.
 
 ##Rules of the Game
-- Navigate your way on the from the bottom of of the screen to the top
+- Navigate your way from the bottom of the screen to the top
 - Avoid the bugs
 - If you run into any bugs the game is reset and you start back at the beginning
 - If you make it across without hitting any obstacles you win!
