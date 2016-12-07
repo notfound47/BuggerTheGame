@@ -3,6 +3,9 @@
 ##Description
 **Bugger The Game** is a arcade clone of the classic arcade game frogger.
 
+##How to Run the Game
+- Run the index.html file in your browser.
+
 ##Rules of the Game
 - Navigate your way on the from the bottom of of the screen to the top
 - Avoid the bugs
